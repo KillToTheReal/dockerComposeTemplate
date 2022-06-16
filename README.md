@@ -8,7 +8,7 @@
 - Composer
 - MySQL (3306)
 ### Для запуска:
-- Docker
+- Docker (Соответственно WSL2 на WIN10)
 - PHPStorm
 - Консольная команда "docker-compose up -d" из корневой директории
 
